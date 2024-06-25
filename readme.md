@@ -20,6 +20,7 @@ Para executar este projeto, as seguintes bibliotecas são necessárias:
 - `typing`: Biblioteca para suporte de tipagem.
 - `asyncio`: Biblioteca para programação assíncrona.
 - `re`: Biblioteca para operações com expressões regulares.
+- `playwright`: Biblioteca de automação de código aberto para testes de navegador e web scraping.
 
 ## Métodos
 
