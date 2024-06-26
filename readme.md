@@ -46,23 +46,6 @@ Copie o código, inicie o ambiente virtual, instale as dependências, e execute:
 
 ## Licença / License
 
-MIT License
+Este projeto está licenciado sob os termos da Licença Pública Geral GNU v3.0 (GPLv3). Isso significa que você pode usar, modificar e distribuir este software, desde que mantenha os mesmos direitos e liberdades em qualquer versão modificada. A licença completa pode ser encontrada no arquivo LICENSE - GPLv3 deste repositório.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
+This project is licensed under the terms of the GNU General Public License v3.0 (GPLv3). This means you can use, modify, and distribute this software, as long as you preserve the same rights and freedoms in any modified version. The full license can be found in the LICENSE - GPLv3 file in this repository.
