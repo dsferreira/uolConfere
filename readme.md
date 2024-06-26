@@ -22,7 +22,7 @@ Para executar este projeto, as seguintes bibliotecas são necessárias:
 - `re`: Biblioteca para operações com expressões regulares.
 - `playwright`: Biblioteca de automação de código aberto para testes de navegador e web scraping.
 
-## Métodos
+## Métodos de uolSpider.py
 
 ### start_requests
 
